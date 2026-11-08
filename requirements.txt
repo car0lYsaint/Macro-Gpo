@@ -1,0 +1,9 @@
+customtkinter
+mss
+opencv-python
+numpy
+Pillow
+pydirectinput
+pynput
+rapidocr-onnxruntime
+# opcional (alternativa de OCR, exige instalar o Tesseract no Windows): pytesseract
